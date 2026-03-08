@@ -903,8 +903,8 @@ ML Platform Engineer     Foundation Model Engineer AI Integration Developer
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ai-prompt-engineer-roadmap?style=social)](.)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](.)
+[![GitHub Stars](https://img.shields.io/github/stars/fardin-sabid/ai-prompt-engineer-roadmap?style=social)](.)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fardinxofficial?style=social)](.)
 
 **Made with ❤️ for curious minds with strong reasoning — no CS background required.**
 
