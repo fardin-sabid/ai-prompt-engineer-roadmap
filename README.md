@@ -75,6 +75,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
 
+
 > **"Install a better OS in your brain before running complex software."**
 
 Before diving into code or AI theory, mastering *how to learn* gives you a **2–3× speed advantage**.
@@ -104,7 +105,8 @@ Before diving into code or AI theory, mastering *how to learn* gives you a **2�
 
 ## 💻 02. Computer Science Fundamentals
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 > **You don't need a CS degree. You need the CORE IDEAS.**
 
@@ -155,6 +157,7 @@ Before diving into code or AI theory, mastering *how to learn* gives you a **2�
 ## 🐍 03. Python Programming
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 > **Python is THE language of AI. 95% of all ML/AI code is written in Python.**
 
@@ -222,7 +225,8 @@ key = os.getenv('ANTHROPIC_API_KEY')
 
 ## 📐 04. Mathematics for ML/AI
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 > **You don't need to be a mathematician. You need enough math to UNDERSTAND what ML algorithms are doing.**
 
@@ -244,7 +248,8 @@ key = os.getenv('ANTHROPIC_API_KEY')
 
 ## 🤖 05. Machine Learning (ML)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-0605-4869-8f01-ebfe28da9e6e.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
 
 > **Teaching computers to learn from data instead of being explicitly programmed.**
 
@@ -284,6 +289,7 @@ key = os.getenv('ANTHROPIC_API_KEY')
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
 
+
 > **The technology behind image recognition, voice assistants, translation, and LLMs.**
 
 <details>
@@ -320,7 +326,8 @@ Scaling Law      → More params + data + compute = better performance
 
 ## 🔮 07. AI & Large Language Models (LLMs)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212291083-37051ade-a03b-4a7c-b80d-3b98cb04c0c8.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 > **You don't need to build one — but you must understand the engine to drive it masterfully.**
 
@@ -347,7 +354,8 @@ Mistral   → Mistral-7B, Mixtral     Highly efficient open source
 
 ## ✍️ 08. Prompt Engineering — Complete Mastery
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-8e10-11ec-b777-e1ff5bdc2d3a.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 > **Part science (understanding model behavior), part art (creative problem framing), part UX design.**
 
@@ -384,7 +392,8 @@ Mistral   → Mistral-7B, Mixtral     Highly efficient open source
 
 ## 🏗️ 09. Context Engineering (Advanced)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-8e10-11ec-bd01-7e0842f62ec4.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 > **What separates junior AI developers from senior AI architects.**
 
@@ -419,7 +428,8 @@ Output Space   ███░░░░░░░  30%
 
 ## 🛠️ 10. AI Developer Toolkit & Projects
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-e382-4baf-a4a2-a1a5e7a5b5a5.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 ### 🔧 Core Tools
 
@@ -461,7 +471,8 @@ pip install sentence-transformers  # Free local embeddings
 
 ## 🗺️ 11. Career Roadmap & Month-by-Month Timeline
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212891664-0a5657b3-9199-4a3f-a4d3-6b4ca1dca52e.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -494,7 +505,8 @@ pip install sentence-transformers  # Free local embeddings
 
 ## 📚 12. Resources, Books & Communities
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-a3ac-4a4e-9ba9-4a5a8e4e1c6e.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 ### 🎓 Free Courses
 
@@ -531,7 +543,8 @@ HuggingFace    → huggingface.co          (1000s of free models)
 
 ## ⚙️ 13. Fine-Tuning LLMs
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a905f-2a01-40b0-a42c-5fa7a91b6ebb.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
 
 > **Bake your instructions and style directly into the model weights — like training an employee once instead of giving them a manual every day.**
 
@@ -573,7 +586,8 @@ pip install transformers trl peft bitsandbytes unsloth
 
 ## 🔍 14. Embeddings & Semantic Search
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-2ac2-4b6e-b8b4-29c6e4e7e7a3.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 > **The unsung heroes of modern AI applications. Every RAG system is built on embeddings.**
 
@@ -611,7 +625,8 @@ System Prompt + Retrieved Chunks + User Query → LLM → Grounded Answer
 
 ## 🎨 15. Multimodal AI & Open Source LLMs
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa01b8370.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
 
 ### 👁️ Vision + Language Models
 
@@ -650,7 +665,8 @@ print(response['message']['content'])
 
 ## 🛡️ 16. AI Safety, Cost Optimization & Model Selection
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712f-c028-4142-a673-910eb3dec430.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 ### 🧭 Model Selection Guide
 
@@ -679,7 +695,8 @@ Response Caching  → Cache identical queries with Redis. 20% repeat queries = 2
 
 ## 🐛 17. Failure Patterns & Prompt Versioning
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 ### ❌ Top 10 Prompt Failure Patterns
 
@@ -713,7 +730,8 @@ Response Caching  → Cache identical queries with Redis. 20% repeat queries = 2
 
 ## 💼 18. Career Deep Dive
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
 
 ### 💰 Freelance Rates (2026 Market)
 
@@ -749,7 +767,8 @@ ML Platform Engineer     Foundation Model Engineer AI Integration Developer
 
 ## 📖 19. Glossary
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+
 
 <details>
 <summary><b>Click to expand — 36+ AI/ML terms defined in plain English</b></summary>
@@ -792,7 +811,8 @@ ML Platform Engineer     Foundation Model Engineer AI Integration Developer
 
 ## ✅ 20. Learning Progress Tracker
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9318-65f05237c580.png" width="180"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180"/>
+
 
 <details>
 <summary><b>📋 Click to expand your full progress tracker</b></summary>
