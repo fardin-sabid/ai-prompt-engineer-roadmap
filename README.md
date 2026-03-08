@@ -73,7 +73,7 @@
 
 ## 🧠 01. Foundation Mindset & Meta-Learning
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="150"/>
 
 > **"Install a better OS in your brain before running complex software."**
 
@@ -276,7 +276,7 @@ key = os.getenv('ANTHROPIC_API_KEY')
 
 ## 🧬 06. Deep Learning (DL) & Neural Networks
 
-<img align="right" src="https://media.giphy.com/media/0lGd2OXQjkNda5dCG4/giphy.gif" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="150"/>
 
 > **The technology behind image recognition, voice assistants, translation, and LLMs.**
 
